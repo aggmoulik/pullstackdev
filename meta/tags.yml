@@ -1,13 +1,13 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: opensource
+    name: open-source
+  - slug: contribution
+    name: contribution
+  - slug: gsoc
+    name: gsoc
+  - slug: beginner
+    name: beginner
+  - slug: roadmap
+    name: roadmap
+  - slug: exp
+    name: experience
